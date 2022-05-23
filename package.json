@@ -1,0 +1,22 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "exam project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamelulu/MEANStack.git"
+  },
+  "keywords": [
+    "gamelulu"
+  ],
+  "author": "gamelulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamelulu/MEANStack/issues"
+  },
+  "homepage": "https://github.com/gamelulu/MEANStack#readme"
+}
